@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Come, All Who Are Thirsty
+## John 7:37-39
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel?type=dev)
+[![Build status](https://travis-ci.org/sermons/thirsty.svg)](https://travis-ci.org/sermons/thirsty)
+[![Node deps](https://david-dm.org/sermons/thirsty.svg)](https://david-dm.org/sermons/thirsty)
+[![Node devDeps](https://david-dm.org/sermons/thirsty/dev-status.svg)](https://david-dm.org/sermons/thirsty?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 

@@ -1,18 +1,17 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/thirsty",
+  "repository": "sermons/thirsty",
+  "description": "Jn7:37-39 Come, All Who Are Thirsty",
   "keywords": [
-    "slides",
-    "lectures",
-    "talks",
-    "ppt"
+    "sermon",
+    "John",
+    "gospel"
   ],
   "version": "1.6.6",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "thirsty.seanho.com",
+    "cname": "thirsty.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "22bc761ffc97809b"
@@ -23,14 +22,14 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Evangelical Chinese Bible Church",
+        "city": "Burnaby",
+        "date": "2017-11-19",
         "duration": 0
       }
     ],
     "slides": [
-      "slides/sample.md"
+      "slides/slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.5.0",
     "css": [
