@@ -1,5 +1,5 @@
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
-# Come, All Who Are Thirsty
+# Come, All Who <br> Are Thirsty
 ## John 7:37-39
 
 ---
@@ -10,9 +10,9 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
-## Outline [(ref)](# "ref")
-1. Point **One** [(v37)](# "ref")
-2. Point **Two** [(v38)](# "ref")
-3. Point **Three** [(v39)](# "ref")
+## Come, All Who Are Thirsty [(Jn 7)](# "ref")
+1. Come and **Drink** [(v37)](# "ref")
+2. Water of **Life** [(v38)](# "ref")
+3. Path of **Glory** [(v39)](# "ref")
 
 <!-- .element: class="outline" -->
