@@ -4,7 +4,8 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# Jesus is **calling**! 
+# What is my **response**?
 
 [###](#/outline "secret")
 
