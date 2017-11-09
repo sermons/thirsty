@@ -24,6 +24,9 @@ Out of his heart will flow rivers of **living water**.’”
 
 [John 7:37-38 (ESV) (p.1/2)](# "ref")
 
+>>>
++ Jn 4:14 Samaritan woman: living water
+
 ---
 [39](# "ref")
 Now this he said about the **Spirit**, <br>
