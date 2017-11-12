@@ -46,3 +46,7 @@ because Jesus was not yet **glorified**.
 3. Path of **Glory** [(John 7:39)](# "ref")
 
 <!-- .element: class="outline" -->
+
+>>>
++ Rev22 spirit + bride say "come"
+
