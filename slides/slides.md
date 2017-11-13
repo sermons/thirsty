@@ -49,4 +49,5 @@ because Jesus was not yet **glorified**.
 
 >>>
 + Rev22 spirit + bride say "come"
++ prayer of commitment
 
