@@ -24,9 +24,6 @@ Out of his heart will flow rivers of **living water**.’”
 
 [John 7:37-38 (ESV) (p.1/2)](# "ref")
 
->>>
-+ Jn 4:14 Samaritan woman: living water
-
 ---
 [39](# "ref")
 Now this he said about the **Spirit**, <br>
@@ -40,14 +37,78 @@ because Jesus was not yet **glorified**.
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
-## Come, All Who Are Thirsty
-1. Come and **Drink** [(John 7:37)](# "ref")
-2. Water of **Life** [(John 7:38)](# "ref")
-3. Path of **Glory** [(John 7:39)](# "ref")
+## All Who Are Thirsty [(John 7)](# "ref")
+1. Come and **Drink** [(v37)](# "ref")
+2. Water of **Life** [(v38)](# "ref")
+3. Path of **Glory** [(v39)](# "ref")
 
 <!-- .element: class="outline" -->
 
+---
+On the last day of the **feast**
+
+[John 7:37a (ESV)](# "ref")
+
+>>>
++ context: 3 annual Jewish **festivals**
+  + **absence** would be noted
++ looking for the **Messiah**:
+  + God's visitation: **Immanuel**
+  + remember His people
+
+---
+Jesus stood up and **cried** out, 
+
+“If anyone **thirsts**, <br>
+let him **come** to me and drink.
+
+[John 7:37b (ESV)](# "ref")
+
+>>>
++ Jn 4:14 Samaritan woman: living water
+
+---
+<!-- .slide: data-background="white" -->
+# Q1
+
+---
+## outline
+
+---
+Whoever **believes** in me, <br>
+as the Scripture has said,
+
+Out of his heart will flow rivers of **living water**.
+
+[John 7:38 (ESV)](# "ref")
+
+---
+Now this he said about the **Spirit**, <br>
+whom those who **believed** in him <br>
+were to receive
+
+[John 7:39a (ESV)](# "ref")
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
+## outline
+
+---
+for as yet the Spirit had **not** been given, <br>
+because Jesus was not yet **glorified**.
+
 >>>
 + Rev22 spirit + bride say "come"
-+ prayer of commitment
 
+---
+<!-- .slide: data-background="white" -->
+# Q3
+
+---
+## prayer
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
