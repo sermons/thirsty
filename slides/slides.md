@@ -78,7 +78,8 @@ let him **come** to me and drink.
 Whoever **believes** in me, <br>
 as the Scripture has said,
 
-Out of his heart will flow rivers of **living water**.
+Out of his heart will flow <br>
+rivers of **living water**.
 
 [John 7:38 (ESV)](# "ref")
 
