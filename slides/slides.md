@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Jesus is **calling**! 
+# Jesus is **calling**!
 # What is my **response**?
 
 [###](#/outline "secret")
@@ -12,7 +12,7 @@
 ---
 [37](# "ref")
 On the last day of the **feast**, the great day, <br>
-Jesus stood up and **cried** out, 
+Jesus stood up and **cried** out,
 
 “If anyone **thirsts**, <br>
 let him **come** to me and drink.
@@ -28,7 +28,7 @@ Out of his heart will flow rivers of **living water**.’”
 [39](# "ref")
 Now this he said about the **Spirit**, <br>
 whom those who believed in him <br>
-were to receive, 
+were to receive,
 
 for as yet the Spirit had **not** been given, <br>
 because Jesus was not yet **glorified**.
@@ -57,15 +57,25 @@ On the last day of the **feast**
   + remember His people
 
 ---
-Jesus stood up and **cried** out, 
+Jesus stood up and **cried** out,
 
 “If anyone **thirsts**, <br>
 let him **come** to me and drink.
 
 [John 7:37b (ESV)](# "ref")
 
+---
+Whoever **drinks** the water I give them <br>
+will never **thirst**.
+
+Indeed, the **water** I give them <br>
+will become in them <br>
+a **spring** of water welling up to **eternal life**.
+
+[John 4:14 (NIV)](# "ref")
+
 >>>
-+ Jn 4:14 Samaritan woman: living water
++ Samaritan woman: living water
 
 ---
 <!-- .slide: data-background="white" -->
