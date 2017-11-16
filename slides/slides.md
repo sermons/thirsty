@@ -109,7 +109,7 @@ because Jesus was not yet **glorified**.
 # Q3
 
 ---
-## prayer
+## prayer of commitment
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
