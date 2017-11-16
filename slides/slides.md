@@ -111,8 +111,38 @@ were to receive
 for as yet the Spirit had **not** been given, <br>
 because Jesus was not yet **glorified**.
 
->>>
-+ Rev22 spirit + bride say "come"
+---
+he was pierced for our transgressions, <br>
+he was crushed for our iniquities; <br>
+the punishment that brought us peace was on him, <br>
+and by his wounds we are healed.
+
+[6](# "ref")
+We all, like sheep, have gone astray, <br>
+each of us has turned to our own way; <br>
+and the Lord has laid on him <br>
+the iniquity of us all.
+
+[Isaiah 53:5-6 (NIV) (p.1/2)](# "ref")
+
+---
+After he has suffered, <br>
+he will see the light of life and be satisfied;
+
+by his knowledge my righteous servant will justify many, <br>
+and he will bear their iniquities.
+
+[Isaiah 53:11 (NIV) (p.2/2)](# "ref")
+
+---
+The **Spirit** and the **bride** say, “Come!” <br>
+And let the one who **hears** say, “Come!”
+
+Let the one who is **thirsty** come; <br>
+and let the one who wishes take <br>
+the **free gift** of the water of **life**.
+
+[Revelation 22:17 (NIV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
