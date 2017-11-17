@@ -112,27 +112,33 @@ for as yet the Spirit had **not** been given, <br>
 because Jesus was not yet **glorified**.
 
 ---
-he was pierced for our transgressions, <br>
-he was crushed for our iniquities; <br>
-the punishment that brought us peace was on him, <br>
-and by his wounds we are healed.
+he was **pierced** for our transgressions, <br>
+he was crushed for our **iniquities**;
 
-[6](# "ref")
-We all, like sheep, have gone astray, <br>
-each of us has turned to our own way; <br>
-and the Lord has laid on him <br>
-the iniquity of us all.
+the **punishment** that <br>
+brought us **peace** was on him, <br>
+and by his wounds we are **healed**.
 
-[Isaiah 53:5-6 (NIV) (p.1/2)](# "ref")
+[Isaiah 53:5 (NIV) (p.1/3)](# "ref")
 
 ---
-After he has suffered, <br>
-he will see the light of life and be satisfied;
+We all, like **sheep**, have gone astray, <br>
+each of us has turned to our **own way**;
 
-by his knowledge my righteous servant will justify many, <br>
-and he will bear their iniquities.
+and the Lord has laid on him <br>
+the **iniquity** of us all.
 
-[Isaiah 53:11 (NIV) (p.2/2)](# "ref")
+[Isaiah 53:6 (NIV) (p.2/3)](# "ref")
+
+---
+After he has **suffered**, <br>
+he will see the **light of life** and be satisfied;
+
+by his knowledge my righteous servant <br>
+will **justify** many, <br>
+and he will **bear** their iniquities.
+
+[Isaiah 53:11 (NIV) (p.3/3)](# "ref")
 
 ---
 The **Spirit** and the **bride** say, “Come!” <br>
