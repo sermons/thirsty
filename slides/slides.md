@@ -154,7 +154,43 @@ the **free gift** of the water of **life**.
 # Q3
 
 ---
-## prayer of commitment
+Lord **Jesus Christ**, thank You for loving me. <br>
+You are the **Creator** God, and <br>
+You came **down** from heaven to show Your **love**.
+
+You **died** for my sins upon the cross: <br>
+You paid the **penalty** to remove my guilt.
+
+You **rose** from the dead on the third day -- <br>
+You **triumphed** over sin and death!
+
+[Prayer of Commitment (p.1/3)](# "ref")
+
+---
+Lord Jesus, I want to **follow** You. <br>
+Please live in my **heart** <br>
+and take **control** of my life.
+
+I **repent** of my sin -- the sin of <br>
+**trusting** in myself instead of trusting **You**.
+
+I commit to **read** Your Word and **follow** it -- <br>
+to **walk** humbly in Your ways.
+
+[Prayer of Commitment (p.2/3)](# "ref")
+
+---
+Grant me the **Holy Spirit** to guide me, <br>
+And give me a **new life** -- Your eternal life.
+
+**Heal** my heart and fill it with Your **love**; <br>
+Bless my **loved ones**, too, <br>
+That they also may **trust** in You.
+
+This I pray, in the name of **Jesus Christ**, <br>
+Amen.
+
+[Prayer of Commitment (p.3/3)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
