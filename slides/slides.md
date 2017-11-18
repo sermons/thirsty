@@ -64,17 +64,18 @@ let him **come** to me and drink.
 [John 7:37b (ESV)](# "ref")
 
 ---
-Whoever **drinks** the water I give them <br>
-will never **thirst**.
+Enter by the **narrow** gate.
 
-Indeed, the **water** I give them <br>
-will become in them <br>
-a **spring** of water welling up to **eternal life**.
+For the gate is **wide** and the way is **easy** <br>
+that leads to **destruction**, <br>
+and those who enter by it are **many**.
 
-[John 4:14 (NIV)](# "ref")
+[14](# "ref")
+For the gate is **narrow** and the way is **hard** <br>
+that leads to **life**, <br>
+and those who find it are **few**.
 
->>>
-+ Samaritan woman
+[Matthew 7:13-14 (ESV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -98,6 +99,16 @@ whom those who **believed** in him <br>
 were to receive
 
 [John 7:39a (ESV)](# "ref")
+
+---
+Whoever **drinks** the water I give them <br>
+will never **thirst**.
+
+Indeed, the **water** I give them <br>
+will become in them <br>
+a **spring** of water welling up to **eternal life**.
+
+[John 4:14 (NIV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
