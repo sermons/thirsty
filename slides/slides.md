@@ -4,8 +4,8 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Jesus is **calling**!
-# What is my **response**?
+# Jesus is **calling** --
+# what is my **response**?
 
 [###](#/outline "secret")
 
@@ -51,10 +51,9 @@ On the last day of the **feast**
 
 >>>
 + context: 3 annual Jewish **festivals**
-  + **absence** would be noted
-+ looking for the **Messiah**:
-  + God's visitation: **Immanuel**
-  + remember His people
+  + congregate in **Jerusalem**
++ seeking the **Messiah**:
+  + God to **remember** His people
 
 ---
 Jesus stood up and **cried** out,
@@ -75,7 +74,7 @@ a **spring** of water welling up to **eternal life**.
 [John 4:14 (NIV)](# "ref")
 
 >>>
-+ Samaritan woman: living water
++ Samaritan woman
 
 ---
 <!-- .slide: data-background="white" -->
