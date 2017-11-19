@@ -158,12 +158,14 @@ and those who find it are **few**.
 # Do I **thirst** for God's healing?
 
 >>>
-+ **battle** within
++ from what? **battle** within
   + **wanting** to do good
   + **unable** to sustain it
   + even **hurting** self, others
-+ leaves **wounds**, scars
-+ &rArr; **direct** hope toward God
+  + leaves **wounds**, scars
++ not just: do I **want** healing:
++ do I **direct** my hope toward God
+  + trust enough to be His **disciple**
 
 ---
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
@@ -189,8 +191,10 @@ rivers of **living water**.
   + not only **satisfy** own thirst
   + but **overflow** to others!
 + "heart" (belly, womb): **innermost** being
-+ to be **caregiver**, provider:
-  + **drain** own energy, patience
++ **caregiver**, providers:
+  + **sandwich** generation
+  + e.g., elderly lady w/Alz
++ **drain** own energy, patience
   + **dump** on others
   + **pass** misery around, but
   + never **removed**
@@ -245,12 +249,16 @@ a **spring** of water welling up to **eternal life**.
   + His **judgments** are right
   + what He **says** is true (Bible)
   + stake my **life** on it
-+ do you **believe** I can fly **helicopter**?
-  + vs. will you **get in**?
 
 ---
 <!-- .slide: data-background="white" -->
 # Do I rely on my **own** strength, or God's **wellspring** of life?
+
+>>>
++ **trust** in God means
+  + **submission**, obedience
++ do you **believe** I can fly **helicopter**?
+  + vs. will you **get in**?
 
 ---
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
