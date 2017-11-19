@@ -71,6 +71,7 @@ On the last day of the **feast**
   + God to **remember** us
 
 ---
+<!-- .slide: <%= bg("unsplash-w8g2vws1VBQ-stream_water_trickle.jpg") %>  -->
 Jesus stood up and **cried** out,
 
 “If anyone **thirsts**, <br>
@@ -86,6 +87,7 @@ let him come to me and drink.
   + **unable** to follow through:
 
 ---
+<!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %>  -->
 For I have the **desire** to do what is right,
 but not the **ability** to carry it out.
 
@@ -108,6 +110,7 @@ Who will **deliver** me from this body of **death**?
   + a thirst for **God**:
 
 ---
+<!-- .slide: <%= bg("unsplash-A1FW9lntloA-deer.jpg") %>  -->
 As a **deer** pants for flowing **streams**,
 so **pants** my soul for you, O **God**.
 
@@ -117,6 +120,7 @@ so **pants** my soul for you, O **God**.
 + when it seems God has **forgotten**
 
 ---
+<!-- .slide: <%= bg("unsplash-w8g2vws1VBQ-stream_water_trickle.jpg") %>  -->
 Jesus stood up and cried out,
 
 “If anyone thirsts, <br>
@@ -132,6 +136,7 @@ let him **come** to me and **drink**.
 + we have a **choice**:
 
 ---
+<!-- .slide: <%= bg("unsplash-u0vgcIOQG08-forest_road_fork.jpg") %>  -->
 Enter by the **narrow** gate.
 
 For the gate is **wide** and the way is **easy** <br>
@@ -170,6 +175,7 @@ and those who find it are **few**.
 <!-- .element: class="outline" -->
 
 ---
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %>  -->
 Whoever **believes** in me <br>
 as the Scripture has said,
 
@@ -192,6 +198,7 @@ rivers of **living water**.
   + comes from God's **Holy Spirit**:
 
 ---
+<!-- .slide: <%= bg("unsplash-78A265wPiO4-sunlit_valley.jpg") %>  -->
 Now this he said about the **Spirit**, <br>
 whom those who **believed** in him <br>
 were to receive
@@ -215,6 +222,7 @@ were to receive
   + **knew** she had done wrong:
 
 ---
+<!-- .slide: <%= bg("unsplash-saGbrA6s8g0-underwater.jpg") %>  -->
 Whoever **drinks** the water I give them <br>
 will never **thirst**.
 
@@ -254,6 +262,7 @@ a **spring** of water welling up to **eternal life**.
 <!-- .element: class="outline" -->
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %>  -->
 for as yet the Spirit had **not** been given, <br>
 because Jesus was not yet **glorified**.
 
@@ -274,6 +283,7 @@ because Jesus was not yet **glorified**.
 + prophet **Isaiah** 700yrs prior:
 
 ---
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %>  -->
 he was **pierced** for our transgressions, <br>
 he was crushed for our **iniquities**;
 
@@ -293,6 +303,7 @@ and by his wounds we are **healed**.
   + when **others** wrong me: "**punish**!"
 
 ---
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %>  -->
 We all, like **sheep**, have gone astray, <br>
 each of us has turned to our **own way**;
 
@@ -311,6 +322,7 @@ the **iniquity** of us all.
   + His **righteousness** imputed to us
 
 ---
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %>  -->
 **After** he has suffered, <br>
 he will see the **light of life** and be satisfied;
 
@@ -333,6 +345,7 @@ and he will **bear** their iniquities.
   + see the **Father's** face one day:
 
 ---
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %>  -->
 The **Spirit** and the **bride** say, “Come!” <br>
 And let the one who **hears** say, “Come!”
 
