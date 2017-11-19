@@ -53,18 +53,67 @@ On the last day of the **feast**
 + context: 3 annual Jewish **festivals**
   + congregate in **Jerusalem**
 + seeking the **Messiah**:
-  + God to **remember** His people
+  + God to **remember** us
 
 ---
 Jesus stood up and **cried** out,
 
 “If anyone **thirsts**, <br>
-let him **come** to me and drink.
+let him come to me and drink.
 
 [John 7:37b (ESV)](# "ref")
 
 >>>
-ps42 as the deer
++ not for **success**, achieve **my** goals
++ but for **healing** of the heart
++ for **rescue** from the internal **war**
+  + **want** to do good
+  + **unable** to follow through:
+
+---
+For I have the **desire** to do what is right,
+but not the **ability** to carry it out.
+
+[19](# "ref")
+For I do not do the **good** I want, but
+the **evil** I do not want is what I keep on doing.
+
+[24](# "ref")
+**Wretched** man that I am!
+Who will **deliver** me from this body of **death**?
+
+[Romans 7:18-19,24 (ESV)](# "ref")
+
+>>>
++ e.g., physical exam: deal w/**tempations**?
++ v20: then it is not **I** but **sin**
++ v25: through **Jesus** Christ our Lord
++ our thirst for **healing** is really
+  + a thirst for **God**:
+
+---
+As a **deer** pants for flowing **streams**,
+so **pants** my soul for you, O **God**.
+
+[Psalm 42:1 (ESV)](# "ref")
+
+>>>
++ when it seems God has **forgotten**
+
+---
+Jesus stood up and cried out,
+
+“If anyone thirsts, <br>
+let him **come** to me and **drink**.
+
+[John 7:37b (ESV)](# "ref")
+
+>>>
++ **invitation**
++ not just to receive **blessing**
+  + like **Christmas** gifts
++ but to **follow** Him
++ we have a **choice**:
 
 ---
 Enter by the **narrow** gate.
@@ -80,9 +129,12 @@ and those who find it are **few**.
 
 [Matthew 7:13-14 (ESV)](# "ref")
 
+>>>
++ e.g., two **wolves** to feed
+
 ---
 <!-- .slide: data-background="white" -->
-# Do I **thirst** to know God? 
+# Do I **thirst** to know God?
 
 ---
 ## outline
