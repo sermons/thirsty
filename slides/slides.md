@@ -138,7 +138,13 @@ and those who find it are **few**.
 # Do I **thirst** to know God?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+## All Who Are Thirsty [(John 7)](# "ref")
+1. Thirst for God [(v37)](# "ref")
+2. **Wellspring of Life** [(v38)](# "ref")
+3. Path of Glory [(v39)](# "ref")
+
+<!-- .element: class="outline" -->
 
 ---
 Whoever **believes** in me <br>
@@ -216,7 +222,13 @@ a **spring** of water welling up to **eternal life**.
 # Do I rely on my **own** strength, or God's **wellspring** of life?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+## All Who Are Thirsty [(John 7)](# "ref")
+1. Thirst for God [(v37)](# "ref")
+2. Wellspring of Life [(v38)](# "ref")
+3. **Path of Glory** [(v39)](# "ref")
+
+<!-- .element: class="outline" -->
 
 ---
 for as yet the Spirit had **not** been given, <br>
@@ -308,7 +320,7 @@ the **free gift** of the water of **life**.
 [Revelation 22:17 (NIV)](# "ref")
 
 >>>
-+ nearly **last** verse in Bible
++ tail **end** of Bible
   + vision of **heaven**
 + **Spirit**: God Himself calls you
 + **bride**: church (Christians) encourages you
