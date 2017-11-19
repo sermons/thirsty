@@ -85,8 +85,9 @@ Who will **deliver** me from this body of **death**?
 [Romans 7:18-19,24 (ESV)](# "ref")
 
 >>>
-+ e.g., physical exam: deal w/**tempations**?
 + v20: then it is not **I** but **sin**
++ "wretched": **miserable**, worn down
++ e.g., physical exam: deal w/**tempations**?
 + v25: through **Jesus** Christ our Lord
 + our thirst for **healing** is really
   + a thirst for **God**:
@@ -248,7 +249,13 @@ and by his wounds we are **healed**.
 [Isaiah 53:5 (NIV) (p.1/3)](# "ref")
 
 >>>
-+
++ "transgress": **cross** the line
+  + **rebellion**, revolt
+  + God's **authority** as Creator
++ "iniquity": moral **failing**, guilt
+  + **severe**, deserves **death**!
++ when I do **wrong**: "please have **mercy**"
+  + when **others** wrong me: "**punish**!"
 
 ---
 We all, like **sheep**, have gone astray, <br>
@@ -259,8 +266,17 @@ the **iniquity** of us all.
 
 [Isaiah 53:6 (NIV) (p.2/3)](# "ref")
 
+>>>
++ **sin**: trusting **self** instead of Jesus
+  + making self as **God**
++ **injustice** of Christ's death
+  + He was **sinless**
+  + more than just a **noble** sacrifice!
++ our **sins** imputed to Him
+  + His **righteousness** imputed to us
+
 ---
-After he has **suffered**, <br>
+**After** he has suffered, <br>
 he will see the **light of life** and be satisfied;
 
 by his knowledge my righteous servant <br>
@@ -268,6 +284,18 @@ will **justify** many, <br>
 and he will **bear** their iniquities.
 
 [Isaiah 53:11 (NIV) (p.3/3)](# "ref")
+
+>>>
++ pathway to **glory** led through **suffering**
+  + on **our** behalf
++ on the other side: the **light** of life
++ so we too **suffer** as we **struggle** w/sin:
+  + still **miserable** in this body of death
++ but put our **hope** in God, remember:
+  + **Jesus** already **paid** for our sins
+  + **Spirit**, wellspring of life
+    + gives us **strength**
+  + see the **Father's** face one day:
 
 ---
 The **Spirit** and the **bride** say, “Come!” <br>
@@ -279,9 +307,21 @@ the **free gift** of the water of **life**.
 
 [Revelation 22:17 (NIV)](# "ref")
 
+>>>
++ nearly **last** verse in Bible
+  + vision of **heaven**
++ **Spirit**: God Himself calls you
++ **bride**: church (Christians) encourages you
++ **hears**: own heart prompts you
++ &rArr; are you **thirsty** for God?
++ **free gift**: paid for by Christ
+  + cost Him His **life**
++ costs me my **selfishness**
+  + must **yield**, trust, **follow**
+
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Will I **follow** Jesus as His **disciple**?
 
 ---
 Lord **Jesus Christ**, thank You for loving me. <br>
