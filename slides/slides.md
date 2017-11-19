@@ -45,6 +45,7 @@ because Jesus was not yet **glorified**.
 <!-- .element: class="outline" -->
 
 ---
+<!-- .slide: <%= bg("Holyland_Model_Jerusalem.jpg") %>  -->
 On the last day of the **feast**
 
 [John 7:37a (ESV)](# "ref")
