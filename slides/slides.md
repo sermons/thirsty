@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> id="title" -->
 # Come, All Who <br> Are Thirsty
 ## John 7:37-39
 
@@ -36,7 +36,7 @@ because Jesus was not yet **glorified**.
 [John 7:37-38 (ESV) (p.1/2)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> id="outline" -->
 ## All Who Are Thirsty [(John 7)](# "ref")
 1. **Thirst** for God [(v37)](# "ref")
 2. Wellspring of **Life** [(v38)](# "ref")
@@ -138,7 +138,7 @@ and those who find it are **few**.
 # Do I **thirst** to know God?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 ## All Who Are Thirsty [(John 7)](# "ref")
 1. Thirst for God [(v37)](# "ref")
 2. **Wellspring of Life** [(v38)](# "ref")
@@ -222,7 +222,7 @@ a **spring** of water welling up to **eternal life**.
 # Do I rely on my **own** strength, or God's **wellspring** of life?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 ## All Who Are Thirsty [(John 7)](# "ref")
 1. Thirst for God [(v37)](# "ref")
 2. Wellspring of Life [(v38)](# "ref")
@@ -336,6 +336,7 @@ the **free gift** of the water of **life**.
 # Will I **follow** Jesus as His **disciple**?
 
 ---
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 Lord **Jesus Christ**, thank You for loving me. <br>
 You are the **Creator** God, and <br>
 You came **down** from heaven to show Your **love**.
@@ -349,6 +350,7 @@ You **triumphed** over sin and death!
 [Prayer of Commitment (p.1/3)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 Lord Jesus, I want to **follow** You. <br>
 Please live in my **heart** <br>
 and take **control** of my life.
@@ -362,6 +364,7 @@ to **walk** humbly in Your ways.
 [Prayer of Commitment (p.2/3)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 Grant me the **Holy Spirit** to guide me, <br>
 And give me a **new life** -- Your eternal life.
 
@@ -375,4 +378,4 @@ Amen.
 [Prayer of Commitment (p.3/3)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> class="empty" -->
