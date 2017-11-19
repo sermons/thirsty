@@ -9,6 +9,15 @@
 
 [###](#/outline "secret")
 
+>>>
++ passage: Jesus' **invitation**
+  + to receive **healing**
+  + **overflow** to care for others
+  + to **discipleship** / commit
++ not just 2000 yrs ago
+  + Jesus is **eternal**
+  + still calls to us **today**:
+
 ---
 [37](# "ref")
 On the last day of the **feast**, the great day, <br>
@@ -39,8 +48,8 @@ because Jesus was not yet **glorified**.
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> id="outline" -->
 ## All Who Are Thirsty [(John 7)](# "ref")
 1. **Thirst** for God [(v37)](# "ref")
-2. Wellspring of **Life** [(v38)](# "ref")
-3. Path of **Glory** [(v39)](# "ref")
+2. **Seek** the Wellspring of Life [(v38)](# "ref")
+3. **Walk** Christ's Path of Glory [(v39)](# "ref")
 
 <!-- .element: class="outline" -->
 
