@@ -2,6 +2,14 @@
 # Come, All Who <br> Are Thirsty
 ## John 7:37-39
 
+>>>
++ passage: Jesus' **invitation**
+  + to **all**, churched + un
+  + Chr, Cath, Budd, Hin, Sikh, atheist
++ not just 2000 yrs ago
+  + Jesus is **eternal**
+  + still calls to us **today**:
+
 ---
 <!-- .slide: data-background="white" -->
 # Jesus is **calling** --
@@ -10,13 +18,10 @@
 [###](#/outline "secret")
 
 >>>
-+ passage: Jesus' **invitation**
-  + to receive **healing**
-  + **overflow** to care for others
++ Jesus' **invitation** is:
+  + to receive **healing**, that
+  + **overflows** to care for others
   + to **discipleship** / commit
-+ not just 2000 yrs ago
-  + Jesus is **eternal**
-  + still calls to us **today**:
 
 ---
 [37](# "ref")
@@ -159,8 +164,8 @@ and those who find it are **few**.
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 ## All Who Are Thirsty [(John 7)](# "ref")
 1. Thirst for God [(v37)](# "ref")
-2. **Wellspring of Life** [(v38)](# "ref")
-3. Path of Glory [(v39)](# "ref")
+2. **Seek the Wellspring of Life** [(v38)](# "ref")
+3. Follow Christ's Path to Glory [(v39)](# "ref")
 
 <!-- .element: class="outline" -->
 
@@ -243,8 +248,8 @@ a **spring** of water welling up to **eternal life**.
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 ## All Who Are Thirsty [(John 7)](# "ref")
 1. Thirst for God [(v37)](# "ref")
-2. Wellspring of Life [(v38)](# "ref")
-3. **Path of Glory** [(v39)](# "ref")
+2. Seek the Wellspring of Life [(v38)](# "ref")
+3. **Follow Christ's Path to Glory** [(v39)](# "ref")
 
 <!-- .element: class="outline" -->
 
@@ -341,7 +346,7 @@ the **free gift** of the water of **life**.
 + tail **end** of Bible
   + vision of **heaven**
 + **Spirit**: God Himself calls you
-+ **bride**: church (Christians) 
++ **bride**: church (Christians)
   + encouraging you
 + **hears**: own heart prompts you
 + &rArr; are you **thirsty** for God?
