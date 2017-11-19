@@ -25,7 +25,7 @@
         "venue": "Evangelical Chinese Bible Church",
         "city": "Burnaby",
         "date": "2017-11-19",
-        "duration": 0
+        "duration": [40]
       }
     ],
     "slides": [
