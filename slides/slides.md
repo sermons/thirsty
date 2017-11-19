@@ -49,7 +49,7 @@ because Jesus was not yet **glorified**.
 ## All Who Are Thirsty [(John 7)](# "ref")
 1. **Thirst** for God [(v37)](# "ref")
 2. **Seek** the Wellspring of Life [(v38)](# "ref")
-3. **Walk** Christ's Path of Glory [(v39)](# "ref")
+3. **Follow** Christ's Path to Glory [(v39)](# "ref")
 
 <!-- .element: class="outline" -->
 
@@ -97,7 +97,7 @@ Who will **deliver** me from this body of **death**?
 >>>
 + v20: then it is not **I** but **sin**
 + "wretched": **miserable**, worn down
-+ e.g., physical exam: deal w/**tempations**?
++ e.g., phys exam: deal w/**tempt**?
 + v25: through **Jesus** Christ our Lord
 + our thirst for **healing** is really
   + a thirst for **God**:
@@ -141,11 +141,19 @@ and those who find it are **few**.
 [Matthew 7:13-14 (ESV)](# "ref")
 
 >>>
-+ e.g., two **wolves** to feed
++ JJ: **open** heart vs. be **disciple**
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **thirst** to know God?
+# Do I **thirst** for God's healing?
+
+>>>
++ **battle** within
+  + **wanting** to do good
+  + **unable** to sustain it
+  + even **hurting** self, others
++ leaves **wounds**, scars
++ &rArr; **direct** hope toward God
 
 ---
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
@@ -187,8 +195,8 @@ were to receive
 
 >>>
 + **Spirit**: of Jesus
-  + knows **mind** of Christ
-  + like **our** spirit **knows** everything of us
+  + knows **mind** of Christ, like
+  + **our** spirit **knows** everyth of us
 + Jesus **ascended** to heaven
   + did not leave us **orphans**:
   + Counselor, **Comforter**, Advocate
@@ -248,7 +256,7 @@ because Jesus was not yet **glorified**.
 
 >>>
 + Trinity **eternal**, but revealed in **seq**:
-+ **Father**: Creator, Judge, plan of salvation
++ **Father**: Creator, Judge, plan
 + **Son**: God with us: born &rarr; healed &rarr;
   + died &rarr; resurr &rarr; ascen
 + **Spirit**: Counselor, wellspring of life
@@ -308,11 +316,11 @@ and he will **bear** their iniquities.
 [Isaiah 53:11 (NIV) (p.3/3)](# "ref")
 
 >>>
-+ pathway to **glory** led through **suffering**
++ path to **glory**: via **suffering**
   + on **our** behalf
 + on the other side: the **light** of life
-+ so we too **suffer** as we **struggle** w/sin:
-  + still **miserable** in this body of death
++ we too **suffer** in **struggle** w/sin:
+  + still **miserable** in body of death
 + but put our **hope** in God, remember:
   + **Jesus** already **paid** for our sins
   + **Spirit**, wellspring of life
@@ -333,7 +341,8 @@ the **free gift** of the water of **life**.
 + tail **end** of Bible
   + vision of **heaven**
 + **Spirit**: God Himself calls you
-+ **bride**: church (Christians) encourages you
++ **bride**: church (Christians) 
+  + encouraging you
 + **hears**: own heart prompts you
 + &rArr; are you **thirsty** for God?
 + **free gift**: paid for by Christ
@@ -344,6 +353,16 @@ the **free gift** of the water of **life**.
 ---
 <!-- .slide: data-background="white" -->
 # Will I **follow** Jesus as His **disciple**?
+
+>>>
++ not repeating **mantra** (prayer)
++ or joining a **club** (church)
++ or even getting **wet** (baptism)
++ &rArr; lifelong **commitment**
++ journey needs a **start**:
+  + confession: what God did
+  + commitment: my response
+  + covenant: God's promises
 
 ---
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
