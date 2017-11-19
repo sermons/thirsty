@@ -378,9 +378,9 @@ the **free gift** of the water of **life**.
 + or even getting **wet** (baptism)
 + &rArr; lifelong **commitment**
 + journey needs a **start**:
-  + confession: what God did
-  + commitment: my response
-  + covenant: God's promises
+  + **confession**: who God is/did
+  + **commitment**: my response
+  + **comfort**: God's promises
 
 ---
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
