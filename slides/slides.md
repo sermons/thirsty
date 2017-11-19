@@ -20,7 +20,7 @@ let him **come** to me and drink.
 [38](# "ref")
 Whoever **believes** in me, <br>
 as the Scripture has said, <br>
-Out of his heart will flow rivers of **living water**.’”
+Out of his heart will flow rivers of **living water**.”
 
 [John 7:37-38 (ESV) (p.1/2)](# "ref")
 
@@ -63,6 +63,9 @@ let him **come** to me and drink.
 
 [John 7:37b (ESV)](# "ref")
 
+>>>
+ps42 as the deer
+
 ---
 Enter by the **narrow** gate.
 
@@ -79,7 +82,7 @@ and those who find it are **few**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# Do I **thirst** to know God? 
 
 ---
 ## outline
