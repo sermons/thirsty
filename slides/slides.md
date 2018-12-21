@@ -69,6 +69,7 @@ On the last day of the **feast**
   + congregate in **Jerusalem**
 + seeking the **Messiah**:
   + God to **remember** us
++ feast of **Tabernacles**
 
 ---
 <!-- .slide: <%= bg("unsplash-w8g2vws1VBQ-stream_water_trickle.jpg") %>  -->
