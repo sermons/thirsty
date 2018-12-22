@@ -89,15 +89,15 @@ let him come to me and drink.
 
 ---
 <!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %>  -->
-For I have the **desire** to do what is right,
+For I have the **desire** to do what is right,<br>
 but not the **ability** to carry it out.
 
 [19](# "ref")
-For I do not do the **good** I want, but
+For I do not do the **good** I want, but<br>
 the **evil** I do not want is what I keep on doing.
 
 [24](# "ref")
-**Wretched** man that I am!
+**Wretched** man that I am!<br>
 Who will **deliver** me from this body of **death**?
 
 [Romans 7:18-19,24 (ESV)](# "ref")
@@ -112,7 +112,7 @@ Who will **deliver** me from this body of **death**?
 
 ---
 <!-- .slide: <%= bg("unsplash-A1FW9lntloA-deer.jpg") %>  -->
-As a **deer** pants for flowing **streams**,
+As a **deer** pants for flowing **streams**,<br>
 so **pants** my soul for you, O **God**.
 
 [Psalm 42:1 (ESV)](# "ref")
