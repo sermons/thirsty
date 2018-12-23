@@ -47,7 +47,7 @@ were to receive,
 for as yet the Spirit had **not** been given, <br>
 because Jesus was not yet **glorified**.
 
-[John 7:37-38 (ESV) (p.1/2)](# "ref")
+[John 7:39 (ESV) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> id="outline" -->
