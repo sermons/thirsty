@@ -50,13 +50,11 @@ because Jesus was not yet **glorified**.
 [John 7:39 (ESV) (p.2/2)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> id="outline" class="outline" -->
 ## All Who Are Thirsty [(John 7)](# "ref")
 1. **Thirst** for God [(v37)](# "ref")
 2. **Seek** the Wellspring of Life [(v38)](# "ref")
 3. **Follow** Christ's Path to Glory [(v39)](# "ref")
-
-<!-- .element: class="outline" -->
 
 ---
 <!-- .slide: <%= bg("Holyland_Model_Jerusalem.jpg") %>  -->
@@ -132,9 +130,10 @@ let him **come** to me and **drink**.
 [John 7:37b (ESV)](# "ref")
 
 >>>
-+ **invitation**
++ Jesus offers **invitation**
 + not just to receive **blessing**
   + like **Christmas** gifts
++ not to take a **drink** and run off again
 + but to **follow** Him
 + we have a **choice**:
 
@@ -171,13 +170,11 @@ and those who find it are **few**.
   + trust enough to be His **disciple**
 
 ---
-<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> class="outline" -->
 ## All Who Are Thirsty [(John 7)](# "ref")
 1. Thirst for God [(v37)](# "ref")
 2. **Seek the Wellspring of Life** [(v38)](# "ref")
 3. Follow Christ's Path to Glory [(v39)](# "ref")
-
-<!-- .element: class="outline" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %>  -->
@@ -264,13 +261,11 @@ a **spring** of water welling up to **eternal life**.
   + vs. will you **get in**?
 
 ---
-<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> class="outline" -->
 ## All Who Are Thirsty [(John 7)](# "ref")
 1. Thirst for God [(v37)](# "ref")
 2. Seek the Wellspring of Life [(v38)](# "ref")
 3. **Follow Christ's Path to Glory** [(v39)](# "ref")
-
-<!-- .element: class="outline" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %>  -->
