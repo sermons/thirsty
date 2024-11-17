@@ -1,7 +1,7 @@
 {
   "name": "@sermons/reveal-skel",
   "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "description": "Come, All Who Are Thirsty",
   "keywords": [
     "slides"
   ],
@@ -9,7 +9,7 @@
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "",
-    "cname": "reveal-skel.seanho.com",
+    "cname": "thirsty.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "22bc761ffc97809b"
