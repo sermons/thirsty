@@ -3,9 +3,10 @@
 ## John 7:37-39
 
 >>>
-+ passage: Jesus' **invitation**
-  + to **all**, churched + un
-  + Chr, Cath, Budd, Hin, Sikh, atheist
++ e.g., friend waves hi but not to you
++ Jesus **calls** to each one of us
++ invitation is **universal**: churched + un
+  + but **individual**: knows you by name
 + not just 2000 yrs ago
   + Jesus is **eternal**
   + still calls to us **today**:
@@ -118,7 +119,6 @@ For the gate is **wide** and the way is **easy** <br>
 that leads to **destruction**, <br>
 and those who enter by it are **many**.
 
-[14](# "ref")
 For the gate is **narrow** and the way is **hard** <br>
 that leads to **life**, <br>
 and those who find it are **few**.
