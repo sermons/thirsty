@@ -1,7 +1,7 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "Come, All Who Are Thirsty",
+  "name": "@sermons/thirsty",
+  "repository": "sermons/thirsty",
+  "description": "John 7:37-39 Come, All Who Are Thirsty",
   "keywords": [
     "slides"
   ],
@@ -12,7 +12,7 @@
     "cname": "thirsty.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
-      "id": "22bc761ffc97809b"
+      "id": "b8b9f378e1d3d9e0"
     },
     "git": {
       "name": "Sean Ho",
@@ -20,9 +20,9 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Fujian Evangelical Church",
+        "city": "Richmond",
+        "date": "2024-11-17",
         "duration": 0
       }
     ],
