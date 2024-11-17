@@ -104,7 +104,8 @@ Who will **deliver** me from this body of **death**?
 
 >>>
 + v20: then it is not **I** but **sin**
-+ "wretched": **miserable**, worn down
++ "wretched": (ταλαίπωρος) long-standing sorrow 
+  + **miserable**, worn down
 + e.g., phys exam: deal w/**tempt**?
 + v25: through **Jesus** Christ our Lord
 + our thirst for **healing** is really
