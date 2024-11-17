@@ -2,8 +2,7 @@
 ## John 7:37-39
 
 [![Build status](https://github.com/sermons/thirsty/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/thirsty/actions/workflows/build.yml)
-[![David](https://img.shields.io/david/sermons/thirsty)](https://david-dm.org/sermons/thirsty)
-[![David (dev)](https://img.shields.io/david/dev/sermons/thirsty)](https://david-dm.org/sermons/thirsty?type=dev)
+![Dependency check](https://img.shields.io/librariesio/github/sermons/thirsty)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
